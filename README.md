@@ -1,2 +1,3 @@
-# Hi a am a student!
+# Hi i am a student!
 
+ I love my cat.
